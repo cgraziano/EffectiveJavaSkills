@@ -22,6 +22,29 @@
       Object oriented with single inheritance
       Supports an inperative (statement oriented) coding style within each method.
 
+http://beginnersbook.com/2013/05/java-inheritance-types/
+    Single inheritance (extends)
+      (When a class extends another class)
+
+    Multiple inheritance (extends)
+      (When a class extends (inherits) more than one base class.)
+        Can cause issues in the hierarchy
+        Most new OO languages (Small Talk, Java, C#) do not support multiple inheritance
+        C++ DOES support multiple inheritance.
+
+    Multilevel inheritance (extends)
+      A class can inherit from a derived class, therby making the derived class the base class
+      for the new class
+
+    Hierarchical Inheritance
+      One class is inherited by many sub classes
+
+    Hybrid inheritance
+      Only possible if you use interfaces
+
+
+
+
 
 
 
